@@ -7,21 +7,19 @@
  */
 
 import React from 'react';
-import {
-  StyleSheet,
-  View,
-  Text,
-} from 'react-native';
 
 import styles from './AppStyles'
+
+import Home from '../../Screen/home/home'
 
 const App = () => {
   return (
     <>
-      <View>
+      {/* <View>
         <Text style={styles.title} >Game Zone 01</Text>
         <Text style={styles.content} >Have a nice day!</Text>
-      </View>
+      </View> */}
+      <Home />
     </>
   );
 };
