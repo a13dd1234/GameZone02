@@ -13,7 +13,7 @@ import {
   Text,
 } from 'react-native';
 
-
+import styles from './AppStyles'
 
 const App = () => {
   return (
@@ -25,28 +25,5 @@ const App = () => {
     </>
   );
 };
-
-const styles = StyleSheet.create({
-  default: {
-  },
-
-  container: {
-    backgroundColor: 'white',
-  },
-
-  title: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: 'black',
-  },
-
-  content: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-    color: 'blue',
-  },
-
-});
 
 export default App;
