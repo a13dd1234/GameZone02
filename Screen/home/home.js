@@ -9,8 +9,8 @@ import styles from './homeStyles'
 
 const Home = () => {
   return (
-    <View style={styles.container}>
-      <Text>Home Screen</Text>
+    <View style={styles.container} >
+      <Text style={styles.content} >Home Screen</Text>
     </View>
   )
 }
