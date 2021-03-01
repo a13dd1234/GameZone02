@@ -30,6 +30,7 @@
 		C413C9D7A6A34DE7B4046F66 /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 79BF388EAFB04A6FB10FC9BD /* Nunito-Regular.ttf */; };
 		22C06CD62AF94F6A8AAFF0B1 /* Nunito-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A91F31BCD0F40C6B62A50C5 /* Nunito-SemiBold.ttf */; };
 		694488324696492DB1C252D7 /* Nunito-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 36046CE181074B198F7CC469 /* Nunito-SemiBoldItalic.ttf */; };
+		69533E0F1B4640B29EEF9DCA /* AkayaTelivigala-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1AE56E324FC7493FA68015EB /* AkayaTelivigala-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,7 @@
 		79BF388EAFB04A6FB10FC9BD /* Nunito-Regular.ttf */ = {isa = PBXFileReference; name = "Nunito-Regular.ttf"; path = "../assets/fonts/Nunito-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		5A91F31BCD0F40C6B62A50C5 /* Nunito-SemiBold.ttf */ = {isa = PBXFileReference; name = "Nunito-SemiBold.ttf"; path = "../assets/fonts/Nunito-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		36046CE181074B198F7CC469 /* Nunito-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Nunito-SemiBoldItalic.ttf"; path = "../assets/fonts/Nunito-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1AE56E324FC7493FA68015EB /* AkayaTelivigala-Regular.ttf */ = {isa = PBXFileReference; name = "AkayaTelivigala-Regular.ttf"; path = "../assets/fonts/AkayaTelivigala-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +205,7 @@
 				79BF388EAFB04A6FB10FC9BD /* Nunito-Regular.ttf */,
 				5A91F31BCD0F40C6B62A50C5 /* Nunito-SemiBold.ttf */,
 				36046CE181074B198F7CC469 /* Nunito-SemiBoldItalic.ttf */,
+				1AE56E324FC7493FA68015EB /* AkayaTelivigala-Regular.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -360,6 +363,7 @@
 				C413C9D7A6A34DE7B4046F66 /* Nunito-Regular.ttf in Resources */,
 				22C06CD62AF94F6A8AAFF0B1 /* Nunito-SemiBold.ttf in Resources */,
 				694488324696492DB1C252D7 /* Nunito-SemiBoldItalic.ttf in Resources */,
+				69533E0F1B4640B29EEF9DCA /* AkayaTelivigala-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

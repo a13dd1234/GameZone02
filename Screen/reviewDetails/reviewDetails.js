@@ -5,12 +5,12 @@ import {
   Text,
 } from 'react-native'
 
-import styles from './aboutStyles'
+import styles from './reviewDetailsStyles'
 
 const ReviewDetails = () => {
   return (
     <View style={styles.container}>
-      <Text>ReviewDetails Screen</Text>
+      <Text style={styles.content} >ReviewDetails Screen</Text>
     </View>
   )
 }

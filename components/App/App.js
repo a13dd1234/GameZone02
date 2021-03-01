@@ -10,7 +10,7 @@ import React from 'react';
 
 import styles from './AppStyles'
 
-import Home from '../../Screen/home/home'
+import Navigator from '../../routes/homeStack'
 
 const App = () => {
   return (
@@ -19,7 +19,7 @@ const App = () => {
         <Text style={styles.title} >Game Zone 01</Text>
         <Text style={styles.content} >Have a nice day!</Text>
       </View> */}
-      <Home />
+      <Navigator />
     </>
   );
 };
